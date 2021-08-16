@@ -1,0 +1,52 @@
+.subheader{
+    padding-top: 4vh;
+    font-size: 1.5vw;
+    padding-bottom: 1vh;
+ }
+
+ .firstsubheader{
+    padding-top: 1vh !important;
+ }
+ 
+ .intern{
+    color: #DA9397;
+    margin-bottom: 0px;
+    font-size: 14px;
+ }
+
+ .date{
+    margin-bottom: 0px;
+    font-size: 14px; 
+ }
+ 
+ .city{
+    font-style: italic;
+    margin-bottom: 10px; 
+    margin-top: 5px;
+    font-size: 14px;
+ }
+ 
+ .last{
+    padding-bottom: 60px;
+ }
+
+ @media only screen and (min-width: 1536px) {
+
+   .intern{
+      color: #DA9397;
+      margin-bottom: 0px;
+      font-size: 16px;
+   }
+  
+   .date{
+      margin-bottom: 0px;
+      font-size: 16px; 
+   }
+   
+   .city{
+      font-style: italic;
+      margin-bottom: 10px; 
+      margin-top: 5px;
+      font-size: 16px;
+   }
+}

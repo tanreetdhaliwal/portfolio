@@ -1,0 +1,80 @@
+.content-background {
+  background-color: #f3f4f5;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  padding-left: 2.5vw !important;
+  padding-right: 2.5vw !important;
+  padding-top: 6vh !important;
+}
+
+.nopadding {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.bullet {
+  font-size: 14px;
+  margin-bottom: 0px !important;
+}
+
+.title {
+  padding-bottom: 2vh;
+  padding-top: 15px;
+  font-size: 2vw;
+}
+
+.subtitle {
+  padding-top: 6vh !important;
+  font-size: 1.5vw;
+  padding-bottom: 1.5vh;
+}
+
+.section-padding {
+  margin-top: 20vh !important;
+}
+
+.company-logo {
+  height: 6vw;
+  width: 16vw;
+  background-color: white !important;
+  border: none !important;
+  border-radius: 1vw !important;
+  outline: 0 !important;
+}
+
+.logo {
+  max-width: 15vw;
+  max-height: 3.5vw;
+  width: auto;
+  height: auto;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
+
+.space10 {
+  padding-bottom: 10px;
+}
+
+.img-fluid {
+  border-radius: 1.5vw !important;
+  padding-top: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+:focus {
+  outline: none !important;
+}
+
+@media only screen and (min-width: 1536px) {
+  .bullet {
+    font-size: 16px;
+    margin-bottom: 0px !important;
+  }
+}
+
+.emoji {
+  padding-bottom: 10px;
+}
