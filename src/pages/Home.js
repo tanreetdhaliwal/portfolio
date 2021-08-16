@@ -116,8 +116,8 @@ class Home extends Component {
             engineering internshps as of December 2021.
           </p>
           <p className="bullet">
-            <span>&#8226;</span> I am currently interning at <b>Coinbase,</b>{" "}
-            the largest cyrptocurrency exchange in the US for Summer 2021.
+            <span>&#8226;</span> I am currently interning at{" "}
+            <b>Cisco Meraki,</b> on the Meraki Vision Cameras team in Fall 2021.
           </p>
           <p className="bullet">
             <span>&#8226;</span> I am seeking full time SWE engineering roles in

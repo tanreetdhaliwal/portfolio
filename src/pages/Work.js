@@ -15,6 +15,20 @@ class Work extends Component {
             Experience
           </h1>
           <h3 className="firstsubheader subheader">
+            <Emoji className="emoji" name="camera" width={30} /> Cisco Meraki
+          </h3>
+          <p className="intern">
+            <b>Software Engineering Intern</b>
+          </p>
+          <p className="date">September 2021 to December 2021</p>
+          <p className="city">
+            <FontAwesomeIcon icon={faMapMarkerAlt} /> &nbsp;San Fransisco, CA
+          </p>
+          <p className="bullet">
+            <span>&#8226;</span> Currently interning on Meraki Vision Cameras
+            team
+          </p>
+          <h3 className="subheader">
             <Emoji className="emoji" name="money-bag" width={30} /> Coinbase
           </h3>
           <p className="intern">
@@ -25,8 +39,24 @@ class Work extends Component {
             <FontAwesomeIcon icon={faMapMarkerAlt} /> &nbsp;San Fransisco, CA
           </p>
           <p className="bullet">
-            <span>&#8226;</span> Currently interning at the largest US
-            cryptocurrency exchange on Retail Card team
+            <span>&#8226;</span> Created an NDA feature from scratch that will
+            be launched on mobile to 200,000+ Coinbase Card customers this fall
+          </p>
+          <p className="bullet">
+            <span>&#8226;</span> Programmed a payment service to securely
+            transfer cryptocurrency from a user’s account to a selected entity
+          </p>
+          <p className="bullet">
+            <span>&#8226;</span> Designed relational database schema, wrote SQL
+            queries and developed REST APIs for backend and client integration
+          </p>
+          <p className="bullet">
+            <span>&#8226;</span> Built out mobile screens in React Native and
+            set up navigation, state and custom React hooks for frontend
+          </p>
+          <p className="bullet">
+            <span>&#8226;</span> Documented project in detailed technical design
+            doc to communicate with internal and external stakeholders
           </p>
           <h3 className="subheader">
             <Emoji className="emoji" name="speedboat" width={30} /> Barnacle
